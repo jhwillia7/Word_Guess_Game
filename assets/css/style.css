@@ -1,0 +1,15 @@
+/* set the background image for game to wheel of fortune theme*/
+body {
+    background: url(../images/squared_metal_@2X.png);
+   
+}
+
+/* sets the jumbotron background to transparent*/
+.jumbotron {
+    background: transparent;
+}
+
+/* set the spacing for the dashes and letters*/
+#dashes, #letters {
+    letter-spacing: 10px;
+}
