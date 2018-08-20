@@ -17,7 +17,7 @@ I used the following folder structure:
 └── index.html
 ```
 
-## HOw the game works:
+## How the game works:
 
 The theme for my game is sports legends!
 
